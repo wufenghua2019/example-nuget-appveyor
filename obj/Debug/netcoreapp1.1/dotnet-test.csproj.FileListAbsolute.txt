@@ -1,0 +1,8 @@
+/Users/nvervoort/sources/github/dotnet-test/bin/Debug/netcoreapp1.1/dotnet-test.deps.json
+/Users/nvervoort/sources/github/dotnet-test/bin/Debug/netcoreapp1.1/dotnet-test.runtimeconfig.json
+/Users/nvervoort/sources/github/dotnet-test/bin/Debug/netcoreapp1.1/dotnet-test.runtimeconfig.dev.json
+/Users/nvervoort/sources/github/dotnet-test/bin/Debug/netcoreapp1.1/dotnet-test.dll
+/Users/nvervoort/sources/github/dotnet-test/bin/Debug/netcoreapp1.1/dotnet-test.pdb
+/Users/nvervoort/sources/github/dotnet-test/obj/Debug/netcoreapp1.1/dotnet-test.AssemblyInfo.cs
+/Users/nvervoort/sources/github/dotnet-test/obj/Debug/netcoreapp1.1/dotnet-test.dll
+/Users/nvervoort/sources/github/dotnet-test/obj/Debug/netcoreapp1.1/dotnet-test.pdb

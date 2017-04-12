@@ -1,0 +1,8 @@
+/Users/nvervoort/sources/github/dotnet-hw/bin/Debug/netcoreapp1.1/dotnet-hw.deps.json
+/Users/nvervoort/sources/github/dotnet-hw/bin/Debug/netcoreapp1.1/dotnet-hw.runtimeconfig.json
+/Users/nvervoort/sources/github/dotnet-hw/bin/Debug/netcoreapp1.1/dotnet-hw.runtimeconfig.dev.json
+/Users/nvervoort/sources/github/dotnet-hw/bin/Debug/netcoreapp1.1/dotnet-hw.dll
+/Users/nvervoort/sources/github/dotnet-hw/bin/Debug/netcoreapp1.1/dotnet-hw.pdb
+/Users/nvervoort/sources/github/dotnet-hw/obj/Debug/netcoreapp1.1/dotnet-hw.AssemblyInfo.cs
+/Users/nvervoort/sources/github/dotnet-hw/obj/Debug/netcoreapp1.1/dotnet-hw.dll
+/Users/nvervoort/sources/github/dotnet-hw/obj/Debug/netcoreapp1.1/dotnet-hw.pdb

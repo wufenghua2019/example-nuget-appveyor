@@ -1,0 +1,8 @@
+/Users/nvervoort/sources/github/example-nuget-appveyor/bin/Debug/netcoreapp1.1/example.deps.json
+/Users/nvervoort/sources/github/example-nuget-appveyor/bin/Debug/netcoreapp1.1/example.runtimeconfig.json
+/Users/nvervoort/sources/github/example-nuget-appveyor/bin/Debug/netcoreapp1.1/example.runtimeconfig.dev.json
+/Users/nvervoort/sources/github/example-nuget-appveyor/bin/Debug/netcoreapp1.1/example.dll
+/Users/nvervoort/sources/github/example-nuget-appveyor/bin/Debug/netcoreapp1.1/example.pdb
+/Users/nvervoort/sources/github/example-nuget-appveyor/obj/Debug/netcoreapp1.1/example.AssemblyInfo.cs
+/Users/nvervoort/sources/github/example-nuget-appveyor/obj/Debug/netcoreapp1.1/example.dll
+/Users/nvervoort/sources/github/example-nuget-appveyor/obj/Debug/netcoreapp1.1/example.pdb
