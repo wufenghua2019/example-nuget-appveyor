@@ -1,5 +1,7 @@
 # Black Duck CoPilot NuGet/AppVeyor
 
+[![Build status](https://ci.appveyor.com/api/projects/status/6968j1og6kvx06xt/branch/master?svg=true)](https://ci.appveyor.com/project/BlackDuckCoPilot/example-nuget-appveyor/branch/master)
+
 Shows a working setup for using the Black Duck CoPilot integration to analyze the risk of project dependencies
 
 ## AppVeyor Setup
