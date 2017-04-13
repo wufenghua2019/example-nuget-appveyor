@@ -5,7 +5,7 @@ before_build:
 build:
   verbosity: minimal
 on_success:
- - nuget install Hub-Nuget -Pre
- - Hub-NuGet.1.0.0-beta\tools\buildBom.exe --hub_deploy_bdio=false
+ - nuget install Hub-Nuget 1.0.0
+ - Hub-NuGet.1.0.0\tools\buildBom.exe --hub_deploy_bdio=false
  - curl -s https://test.duckbuild.io/batch/appveyor > appveyor.bat
  - appveyor
