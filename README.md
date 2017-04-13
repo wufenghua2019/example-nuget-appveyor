@@ -9,7 +9,7 @@ The `appveyor.yml` file has been modified to use the [hub-nuget integration](htt
 
 ```yaml
 on_success:
- - nuget install Hub-Nuget 1.0.0
+ - nuget install Hub-Nuget -Version 1.0.0
  - Hub-NuGet.1.0.0\tools\buildBom.exe --hub_deploy_bdio=false
  - curl -s https://copilot.blackducksoftware.com/batch/appveyor > appveyor.bat
  - appveyor
