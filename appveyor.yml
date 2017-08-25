@@ -5,4 +5,5 @@ before_build:
 build:
   verbosity: minimal
 on_success:
-- bash <(curl -s https://copilot-valid.blackducksoftware.com/ci/appveyor/scripts/upload)
+- curl -s -o upload https://copilot-valid.blackducksoftware.com/ci/appveyor/scripts/upload
+- bash upload
