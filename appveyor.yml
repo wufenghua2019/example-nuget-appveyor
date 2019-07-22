@@ -5,5 +5,5 @@ before_build:
 build:
   verbosity: minimal
 on_success:
-- curl -s -o upload https://test.duckbuild.io/ci/appveyor/scripts/upload
-- bash upload
+- curl -s -o copilot https://copilot-test.blackducksoftware.com/ci/appveyor/scripts/upload
+- bash copilot
